@@ -1,10 +1,10 @@
 # 4610Fa24Group4-2
 
-#Team Name:
+**Team Name:**
 
 Group 4
 
-Team Members:
+**Team Members:**
 
 Lindsay Fleishman @LindsayFleishman
 
