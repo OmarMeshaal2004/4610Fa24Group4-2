@@ -30,7 +30,7 @@ Importance: Understanding the type of car can help companies see if they need to
 
 Question #2: Based on post-Covid monthly statistics, what is the forecast for the amount of crashes per month and the change in average speed limit?
 
-Importance: This question helps us to contextualize crashes and why there may be spikes at certain times of the year. Forecasting for the future can also prepare the officers for what to expect on certain dates. 
+Importance: Due to Covid-19, there was a drop in the amount of vehicles on the road. To ensure that this would not skew our forecasted data, we excluded all statistics from before the pandemic. It is important to see what months contain the most crashes so that drivers can avoid collisions and law enforcement knows what to expect each month. The change in average speed limit is important to note so that it can potentially be changed to eliminate future crashes or so that law enforcement knows what speeds to monitor.
 
 **Manipulations Applied**
 
