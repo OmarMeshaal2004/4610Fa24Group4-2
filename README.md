@@ -42,6 +42,9 @@ We used Data Interpretor in Tableau to clean out text file workbook.
 
 **Question 2**
 
+<img width="1167" alt="Screenshot 2024-11-18 at 12 47 22 PM" src="https://github.com/user-attachments/assets/259f0001-64aa-4b79-b967-6552de3a5a02">
+
+
 We analyzed it post-Covid as there was a big drop due to less cars on the road, and we did not want this to impact the forecasting as it would be included and impact the future data. 
 
 **Tableau Packaged Workbook**
