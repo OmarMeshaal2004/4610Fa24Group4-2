@@ -35,7 +35,9 @@ Importance: Due to Covid-19, there was a drop in the amount of vehicles on the r
 **Manipulations Applied**
 
 Manipulations included:
+
 Excluding and filtering out extraneous data (ex: Longitude, Latitude)
+
 Modifying the data for spelling mistakes and uniformity (ex: Vehicle Make misspelled)
 
 **Analysis and Results**
