@@ -39,6 +39,8 @@ Excluding and filtering out extraneous data (ex: Longitude, Latitude)
 
 Modifying the data for spelling mistakes and uniformity (ex: Vehicle Make misspelled)
 
+This resulted in the data being more **organized**, **readable** and **valid**.
+
 **Analysis and Results**
 
 **Question 1**
