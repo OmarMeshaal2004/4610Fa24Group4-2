@@ -35,9 +35,11 @@ Importance: Due to Covid-19, there was a drop in the amount of vehicles on the r
 **Manipulations Applied**
 
 
-Excluding and filtering out extraneous data (ex: Longitude, Latitude)
+Excluding and filtering out extraneous data and outliers (ex: Longitude, Latitude, and nonsense values).
 
-Modifying the data for spelling mistakes and uniformity (ex: Vehicle Make misspelled)
+Modifying the data and datatypes for spelling mistakes and uniformity (ex: Vehicle Make misspelled).
+
+Aggregating data to calculate values to find percentages and proportions.
 
 This resulted in the data being more **organized**, **readable** and **valid**.
 
