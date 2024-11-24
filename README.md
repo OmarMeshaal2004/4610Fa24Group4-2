@@ -48,6 +48,9 @@ This resulted in the data being more **organized**, **readable** and **valid**.
 
 **Question 1**
 
+Before making this table it was important to note  that car brands like Honda and Toyota are among the most commonly owned vehicles, so we factored that into our analysis. We did this by calculating percentages within each car make (column-wise), to  see how injuries are distributed for each brand.
+From this table, we observe that Audi shows the highest proportion of severe injuries, making it, statistically, the deadliest and most severe car to drive. On the other hand, Lexus has the lowest percentages of severe injuries, suggesting it may be the safest car to drive based on this table. Interestingly, this aligns with Lexus being recently being named the most reliable brand by J.D. Power.
+
 **Question 2**
 
 It is important to note that we analyzed this question post-Covid as there was a big drop due to less cars on the road, and we did not want this to impact the forecasting as it would be included and impact the future data. Our analysis worked best with linear regression as it showed the dips and peaks to crashes that were reported throughout the year; this also helped with forecasting in the future. It was interesting to note how the peak amount of crashes were at the end of the year between November and December, which can correlate to holiday season and potential driving under the influence, as well as more people on the road due to travel season. Another important aspect of the linechart is the pattern of February being the month every year with the least amount of crashes. Since this dataset is from Maryland, it makes sense that in February the number of crashes reported drops as February in Maryland is the worst weather conditions with blizzards. This leads to less people on the road, as well as minimal traveling with no holidays in that month, and less crashes occurring.
