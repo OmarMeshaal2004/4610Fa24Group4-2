@@ -19,7 +19,9 @@ Omar Meshaal @OmarMeshaal2004
 
 **Description of Dataset**
 
-We received our data from catalog.data.gov. This dataset is specifically obtained from Montgomery County of Maryland, and is the data for Crash Reporting. It provides information on drivers involved in traffic collisions. 
+We received our data from catalog.data.gov. This dataset is specifically obtained from Montgomery County of Maryland from 2015 to 2024 and is the data for Crash Reporting. Reports details of all traffic collisions occurring on county and local roadways within Montgomery County.
+
+Shows each collision data recorded and various other related data points including weather conditions, car makes,  and other insights into the accident.
 
 **Generated Questions & Their Importance**
 
@@ -53,5 +55,3 @@ This resulted in the data being more **organized**, **readable** and **valid**.
 
 
 We analyzed it post-Covid as there was a big drop due to less cars on the road, and we did not want this to impact the forecasting as it would be included and impact the future data. Our analysis worked best with linear regression as it showed the dips and peaks to crashes that were reported throughout the year; this also helped with forecasting in the future. It was interesting to note how the peak amount of crashes were at the end of the year between November and December, which can correlate to holiday season and potential driving under the influence, as well as more people on the road due to travel season. Another important aspect of the linechart is the pattern of February being the month every year with the least amount of crashes. Since this dataset is from Maryland, it makes sense that February the number of crashes reported drops as February in Maryland is the worst weather conditions with blizzards. This leads to less people on the road, as well as minimal traveling with no holidays in that month, and less crashes occurring.
-
-**Tableau Packaged Workbook**
