@@ -27,7 +27,8 @@ Shows each collision data recorded and various other related data points includi
 
 Question #1: How does the severity of injuries in car collisions vary within a vehicle’s make? 
 
-Importance: It is important to examine the injury severity of collisions within a manafacturer's car line as it would helps guid customers in making informed decisions about a vehicle’s safety. They can better understand which car manufacturer may offer better protection in the event of a car crash. Manafacturers can also benefit and use this data to enhance safety features within their car lines if the injury severity in their car crashes tends to be more severe rather than minor. Thus, this question is important for both the buyer and the seller of cars.
+Importance: It is important to examine the injury severity of collisions within a manafacturer's car line as it would helps guid customers in making informed decisions about a vehicle’s safety. They can better understand which car manufacturer may offer better protection in the event of a car crash. Manafacturers can also benefit and use this data to enhance safety features within their car lines if the injury severity in their car crashes tends to be more severe rather than minor. Thus, this question is important for both the buyer and the seller of cars. Here, we’re looking at some of the top vehicle brands in the U.S. For each car make, we’ve broken down injury severity based on crash reports from our dataset. To focus specifically on injuries, we’ve filtered out "No injury" cases.
+
 
 
 Question #2: Based on post-Covid monthly statistics, what is the forecast for the amount of crashes per month and the change in average speed limit?
@@ -47,6 +48,9 @@ This resulted in the data being more **organized**, **readable** and **valid**.
 **Analysis and Results**
 
 **Question 1**
+
+Before making this table it was important to note that car brands like Honda and Toyota are among the most commonly owned vehicles, so we factored that into our analysis. We did this by calculating percentages within each car make (column-wise), to see how injuries are distributed for each brand. From this table, we observe that Audi shows the highest proportion of severe injuries, making it, statistically, the deadliest and most severe car to drive. On the other hand, Lexus has the lowest percentages of severe injuries, suggesting it may be the safest car to drive based on this table. Interestingly, this aligns with Lexus being recently named the most reliable brand by J.D. Power. 
+
 
 **Question 2**
 
