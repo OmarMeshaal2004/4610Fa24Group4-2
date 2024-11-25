@@ -19,9 +19,9 @@ Omar Meshaal @OmarMeshaal2004
 
 **Description of Dataset**
 
-We received our data from catalog.data.gov. This dataset is specifically obtained from Montgomery County of Maryland from 2015 to 2024 and is the data for Crash Reporting. Reports details of all traffic collisions occurring on county and local roadways within Montgomery County.
+We received our data from catalog.data.gov. This 23 by 188,091 dataset is specifically obtained from Montgomery County of Maryland from 2015 to 2024 and is the data for Crash Reporting. Reports details of all traffic collisions occurring on county and local roadways within Montgomery County.
 
-Shows each collision data recorded and various other related data points including weather conditions, car makes,  and other insights into the accident.
+Shows each collision data recorded and various other related data points related to each collision like weather conditions, car makes, speed limit, light, substance use, and many other variables. 
 
 **Generated Questions & Their Importance**
 
