@@ -10,11 +10,11 @@ Lindsay Fleishman [@LindsayFleishman](https://github.com/LindsayFleishman)
 
 Jonathan Li [@JonathanL02](https://github.com/JonathanL02)
 
+Omar Meshaal [@OmarMeshaal2004](https://github.com/OmarMeshaal2004)
+
 Arti Girish [@artig123](https://github.com/artig123)
 
 Anish Kapoor [@a-kapoor731](https://github.com/a-kapoor731)
-
-Omar Meshaal [@OmarMeshaal2004](https://github.com/OmarMeshaal2004)
 
 
 **Description of Dataset**
